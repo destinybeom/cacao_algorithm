@@ -1,2 +1,3 @@
 # cacao_algorithm
-Algorithm Study
+Wellcome to Algorithm Study
+Member: HB, SH, YJ :)
